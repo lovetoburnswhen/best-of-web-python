@@ -2419,6 +2419,11 @@ projects:
     category: graphql
     conda_id: conda-forge/graphql-core
     pypi_id: graphql-core
+  - name: gql
+    github_id: graphql-python/gql
+    pypi_id: gql
+    category: graphql
+    labels: ["graphql"]
   - name: graphql-relay-py
     github_id: graphql-python/graphql-relay-py
     category: graphql
